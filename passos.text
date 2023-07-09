@@ -1,0 +1,7 @@
+criar ambiente virtual(python3 -m venv ./env)
+
+ Ativar ambiente virtual(source ./env/bin/activate)
+
+instalar pip install requests unittest2
+
+ para realizar os testes (python3 -m unittest -v teste.py)
